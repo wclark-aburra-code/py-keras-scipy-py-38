@@ -1,0 +1,9 @@
+wave
+scipy
+numpy
+wavefile
+#tensorflow # not on Python > 3.6
+typing
+pampy
+singledispatch
+multimethod
